@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 export const AddCategory = ({ setCategorias }) => {
-
+ //holi
     const [inputValue,setInputValue] = useState('');
 
     const changeValue = (e) =>{
